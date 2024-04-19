@@ -1,6 +1,6 @@
 # Task 4 | Login/Signup
 
-This Project is made under Oasis Infobyte Web Development internship program by Abhyuday Pratap Singh.
+This Project is made under Oasis Infobyte Web Development internship program by Akhilesh.
  
 # 1.0 Introduction 
 
